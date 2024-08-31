@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akshaykumarbedre.github.io](https://akshaykumarbedre.github.io)
 
-- 💬 Ask me about **Python, R, Machine Learning, Deep Learning, NLP**
+- 💬 Ask me about **Python, R, Machine Learning,SQL,AWS **
 
 - 📫 How to reach me **akshaykumarbedre.bm@gmail.com**
 
