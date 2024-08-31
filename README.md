@@ -2,6 +2,7 @@
 <h3 align="center">Data Scientist & ML engineer</h3>
 
 <img align="right" alt="codeing" width='400' src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
+
 - 👨‍💻 All of my projects are available at [https://akshaykumarbedre.github.io](https://akshaykumarbedre.github.io)
 
 - 💬 Ask me about **Python, R, Machine Learning, Deep Learning, NLP**
