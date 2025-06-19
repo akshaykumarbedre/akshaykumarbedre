@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width='400' src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 👨‍💻 Explore my work: [Portfolio & Projects](https://akshaykumarbedre.github.io)
-- 💬 Ask me about: **Python, GenAI, LangChain, LangGraph, RAG, LLMs, MLOps, Vector DBs, FastAPI**
+- 💬 Ask me about: **Python, GenAI,Agentic Application, LangChain, LangGraph, RAG, LLMs, MLOps, Vector DBs, FastAPI, AutoGen**
 - 🧠 Latest Work: Built invoice processing chatbots, fine-tuned vision models, and created RAG systems with LLaMA 3.1 & Ollama.
 - 📫 Reach out: **akshaykumarbedre.bm@gmail.com**
 
@@ -34,9 +34,7 @@
   </a>
   
   <!-- AI/ML/GenAI -->
-  <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  </a>
+
   <a href="https://pytorch.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
   </a>
@@ -45,6 +43,9 @@
   </a>
   <a href="https://ollama.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/150401660?s=200&v=4" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
   </a>
   
   <!-- Tools & Infra -->
@@ -59,18 +60,14 @@
   </a>
   
   <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
+
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
   </a>
   <a href="https://github.com/facebookresearch/faiss" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/695951?s=200&v=4" width="40" height="40"/>
   </a>
-  <a href="https://www.pinecone.io/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/71424500?s=200&v=4" width="40" height="40"/>
-  </a>
+
 </p>
 
 <p>
